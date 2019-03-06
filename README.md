@@ -10,4 +10,4 @@ del primer día). Las pláticas contempladas son las siguientes:
 4. Observación solar.
 5. Taller práctico final.
 
-En este repositorio estarán las presentaciones utilizadas para las charlas teóricas.
+En este repositorio estarán las presentaciones utilizadas para las charlas teóricas, así como el programa y la propuesta inicial.
