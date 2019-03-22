@@ -1,3 +1,7 @@
 *.aux
 *.tex
 *.log
+*.nav
+*.toc
+*.jpg
+*.png
