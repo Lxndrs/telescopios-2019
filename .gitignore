@@ -5,3 +5,10 @@
 *.toc
 *.jpg
 *.png
+*.out
+*.snm
+/figures/*
+*.nav
+*.toc
+/texes/*
+/old-telescopios/*
